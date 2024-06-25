@@ -1,0 +1,31 @@
+{
+  "name": "cli-based-to-do-list",
+  "version": "1.0.0",
+  "description": "CLI based To Do list app using typescript",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SyedMuhammadSarmad/CLI-based-To-do-list.git"
+  },
+  "keywords": [
+    "typescript",
+    "nodejs",
+    "inquirer"
+  ],
+  "author": "Sarmad",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SyedMuhammadSarmad/CLI-based-To-do-list/issues"
+  },
+  "homepage": "https://github.com/SyedMuhammadSarmad/CLI-based-To-do-list#readme",
+  "dependencies": {
+    "inquirer": "^9.2.23"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
